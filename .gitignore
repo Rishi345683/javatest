@@ -1,0 +1,8 @@
+# Eclipse
+.metadata/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
